@@ -67,6 +67,10 @@ Hash functions: MD5, CRC,...
 
 ### Secure programming languages
 
+Characteristics of a programming language that makes them secure - Memory safety, Strong type,...
+
+Rust, Go, Python,.... comparison of these programming languages
+
 ### Threat Modelling
 
 ### Penetration testing
